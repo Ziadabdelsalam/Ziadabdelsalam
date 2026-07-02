@@ -77,14 +77,6 @@ A boutique of digital wedding & engagement invitations — pick a template, cust
 
 <div align="center">
 
-![Ziad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ziadabdelsalam&show_icons=true&hide_border=true&theme=graywhite&count_private=true&include_all_commits=true)
-
-</div>
-
----
-
-<div align="center">
-
 ### 📬 Available for freelance AI work
 
 [![Hire me on Upwork](https://img.shields.io/badge/Hire_me_on-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ed61069bdf946adc)
