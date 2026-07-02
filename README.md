@@ -28,7 +28,7 @@ A boutique of digital wedding & engagement invitations — pick a template, cust
 
 <a href="https://zabotique.vercel.app"><img src="assets/zabotique.png" alt="Zabotique — live product" width="640"/></a>
 
-**[→ Open the live site](https://zabotique.vercel.app)**
+**[→ Open the live site](https://zabotique.vercel.app)** &nbsp;·&nbsp; **[📖 Read the case study](case-studies/zabotique.md)**
 
 <br/>
 
@@ -41,7 +41,7 @@ A boutique of digital wedding & engagement invitations — pick a template, cust
 | **Agentic RAG** | Infrastructure-agnostic agentic RAG platform — swap vector stores and models without rewrites | Python · vector DBs · LLM agents | 🔵 R&D · *code private, walkthrough on request* |
 | [**txt-sql-langchain-agent**](https://github.com/Ziadabdelsalam/txt-sql-langchain-agent) | Plain-English → read-only PostgreSQL analytics via a LangChain agent | LangChain · FastAPI · Streamlit · LangSmith | 🟢 Public |
 | [**deal-brief**](https://github.com/Ziadabdelsalam/deal-brief) | LLM-powered deal-text extraction pipeline with a React UI | Python · LLM · React | 🟢 Public |
-| [**Dahab-chatbot**](https://github.com/Ziadabdelsalam/Dahab-chatbot) | Chatbot backed by an LLM fine-tuned on domain data (Reddit) | Python · fine-tuning | 🟢 Public |
+| [**Dahab-chatbot**](https://github.com/Ziadabdelsalam/Dahab-chatbot) | MCP client that scrapes r/dahab posts & comments into a clean text corpus for a chatbot | Python · asyncio · MCP · pandas | 🟢 Public |
 
 > Private repos are client / product IP. Happy to walk through architecture and code live on a call.
 
